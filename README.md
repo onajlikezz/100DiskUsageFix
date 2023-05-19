@@ -2,7 +2,7 @@
 THIS SCRIPT WILL _PROBABLY_ SOLVE YOUR DISK USAGE
 
 ## WHAT DO YOU NEED?
-[What does this script do?]("#WHAT DOES THIS SCRIPT DO?")
+[What does this script do?](#WHAT-DOES-THIS-SCRIPT-DO?)
 [Warnings](#WARNINGS!)
 [Support](#SUPPORT)
 
