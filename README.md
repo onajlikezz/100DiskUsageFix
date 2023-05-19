@@ -1,5 +1,5 @@
 # NIGHTLIGHT STEAM SSFN LOGIN!
-THIS SCRIPT WILL __PROBABLY__ SOLVE YOUR DISK USAGE
+THIS SCRIPT WILL _PROBABLY_ SOLVE YOUR DISK USAGE
 
 ## WHAT DO YOU NEED?
 [What does this script do?]("#WHAT DOES THIS SCRIPT DO?")
@@ -19,6 +19,10 @@ AFTER USING THIS SCRIPT WILL NOT WORK:
 ## SUPPORT
 IF YOU HAVE ANY QUESTIONS [CLICK HERE](https://discord.gg/9S28yfAVWq) TO ENTER DSCORD SERVER
 OR ADD ME ON DISCORD: onajlikezz#1111
+
+## Screenshots
+![](/screenshots/scr1.png)
+
 
 <!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
 <img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%">
