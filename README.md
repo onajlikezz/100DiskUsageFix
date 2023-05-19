@@ -21,7 +21,7 @@ IF YOU HAVE ANY QUESTIONS [CLICK HERE](https://discord.gg/9S28yfAVWq) TO ENTER D
 OR ADD ME ON DISCORD: onajlikezz#1111
 
 ## Screenshots
-![](/screenshots/scr1.png)
+![](/scr1.png)
 
 
 <!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
